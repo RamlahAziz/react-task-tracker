@@ -1,4 +1,4 @@
-This is the version of the application with redux added
+This is the react version of the application at https://github.com/RamlahAziz/task-tracker-app
 
 ### `npm run build`
 
